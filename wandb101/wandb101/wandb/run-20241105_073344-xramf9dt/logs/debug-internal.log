@@ -1,0 +1,7 @@
+{"time":"2024-11-05T07:33:44.860556287-08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T07:33:44.860565073-08:00","level":"INFO","msg":"created symlink","path":"/home/kmirijan/wandb/wandb101/wandb101/wandb/run-20241105_073344-xramf9dt/logs/debug-core.log"}
+{"time":"2024-11-05T07:33:46.670386718-08:00","level":"INFO","msg":"created new stream","id":"xramf9dt"}
+{"time":"2024-11-05T07:33:46.670425622-08:00","level":"INFO","msg":"stream: started","id":"xramf9dt"}
+{"time":"2024-11-05T07:33:46.67047981-08:00","level":"INFO","msg":"sender: started","stream_id":"xramf9dt"}
+{"time":"2024-11-05T07:33:46.670502827-08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"xramf9dt"}}
+{"time":"2024-11-05T07:33:46.670501517-08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xramf9dt"}}

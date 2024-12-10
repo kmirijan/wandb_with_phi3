@@ -1,0 +1,209 @@
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_setup.py:_flush():79] Configure stats pid to 1343
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_setup.py:_flush():79] Loading settings from /home/kmirijan/.config/wandb/settings
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_setup.py:_flush():79] Loading settings from /home/kmirijan/wandb/wandb-llm-apps-course/llm-apps-course/notebooks/wandb/settings
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_init.py:_log_setup():533] Logging user logs to /home/kmirijan/wandb/wandb-llm-apps-course/llm-apps-course/notebooks/wandb/run-20241129_090511-2ugzwzbk/logs/debug.log
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_init.py:_log_setup():534] Logging internal logs to /home/kmirijan/wandb/wandb-llm-apps-course/llm-apps-course/notebooks/wandb/run-20241129_090511-2ugzwzbk/logs/debug-internal.log
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7ff21014c670>
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_init.py:init():619] calling init triggers
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_init.py:init():669] starting backend
+2024-11-29 09:05:11,570 INFO    MainThread:1343 [wandb_init.py:init():673] sending inform_init request
+2024-11-29 09:05:11,571 INFO    MainThread:1343 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-11-29 09:05:11,572 INFO    MainThread:1343 [wandb_init.py:init():686] backend started and connected
+2024-11-29 09:05:11,575 INFO    MainThread:1343 [wandb_run.py:_label_probe_notebook():1341] probe notebook
+2024-11-29 09:05:11,576 INFO    MainThread:1343 [wandb_init.py:init():781] updated telemetry
+2024-11-29 09:05:11,624 INFO    MainThread:1343 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-29 09:05:13,086 INFO    MainThread:1343 [wandb_init.py:init():867] starting run threads in backend
+2024-11-29 09:05:13,202 INFO    MainThread:1343 [wandb_run.py:_console_start():2451] atexit reg
+2024-11-29 09:05:13,202 INFO    MainThread:1343 [wandb_run.py:_redirect():2299] redirect: wrap_raw
+2024-11-29 09:05:13,202 INFO    MainThread:1343 [wandb_run.py:_redirect():2364] Wrapping output streams.
+2024-11-29 09:05:13,202 INFO    MainThread:1343 [wandb_run.py:_redirect():2389] Redirects installed.
+2024-11-29 09:05:13,205 INFO    MainThread:1343 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-29 09:05:13,205 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:13,205 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:13,212 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:13,213 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:13,213 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:13,225 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:13,226 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:13,226 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:14,726 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:17,182 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 09:05:17,191 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:17,191 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:17,622 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:17,623 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:17,623 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:18,234 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:18,246 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:18,246 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:19,999 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:20,003 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:20,004 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:22,117 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:22,982 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 09:05:22,989 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:22,989 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:23,037 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:23,038 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:23,038 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:24,532 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:24,540 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:24,540 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:25,224 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:31,400 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:31,400 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:31,406 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:31,407 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:31,407 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:31,415 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:31,417 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:31,417 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:31,425 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:31,435 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:31,435 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 09:05:32,490 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 09:05:34,634 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 09:05:34,640 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 09:05:34,640 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:08:33,819 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:08:33,822 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:08:33,822 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:08:43,867 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:08:43,867 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:08:43,867 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:09:19,316 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:09:19,318 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:09:19,318 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:09:20,342 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:09:20,345 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:09:20,345 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:09:20,965 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:09:20,968 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:09:20,968 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:09:21,490 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:09:21,495 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:09:21,495 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:09:25,281 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:09:25,283 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:09:25,283 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:09:28,533 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:09:28,546 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:09:28,546 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:12:01,222 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:12:01,225 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:12:01,225 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:12:01,730 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:12:04,117 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:12:04,123 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:12:04,123 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:12:18,352 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:12:18,362 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:12:18,363 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:12:32,509 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:12:32,510 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:12:32,510 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:12:34,037 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:12:34,824 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:12:34,830 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:12:34,830 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:12:39,021 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:12:39,022 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:12:39,022 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:12:39,664 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:12:39,669 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:12:39,670 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:12:46,069 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:12:46,073 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:12:46,073 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:12:50,828 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:12:50,832 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:12:50,832 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:12:57,504 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:12:58,247 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:12:58,254 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:12:58,254 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:13:55,480 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:13:55,481 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:13:55,481 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:14:03,625 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:14:03,631 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:14:03,631 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:14:13,341 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:14:13,351 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:14:13,351 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:14:19,579 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:14:19,580 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:14:19,580 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:14:33,196 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:14:33,198 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:14:33,199 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:14:36,228 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:14:36,237 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:14:36,238 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:14:43,812 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:14:45,844 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:14:45,850 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:14:45,851 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:16:53,232 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:16:53,233 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:16:53,233 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:16:54,721 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:16:54,726 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:16:54,726 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:16:56,039 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:16:56,043 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:16:56,043 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:18:11,929 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:18:11,935 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:18:11,935 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:18:12,389 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:18:12,395 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:18:12,395 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:18:14,832 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:18:14,833 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:18:14,833 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:18:18,955 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:18:18,968 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:18:18,968 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:18:59,658 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:18:59,660 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:18:59,660 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:19:32,776 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:19:32,778 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:19:32,778 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:19:36,738 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:20:00,244 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:20:00,246 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:20:00,246 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:20:42,515 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:20:57,048 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:21:16,552 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:21:42,761 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:32:08,098 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:32:18,459 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:32:36,527 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:32:49,271 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:33:08,715 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:33:24,303 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:33:44,419 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:33:58,030 WARNING MainThread:1343 [resolver.py:__call__():65] Failed to resolve request/response: __init__() got an unexpected keyword argument 'prompt_tokens_details'
+2024-11-29 10:34:01,092 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:34:01,092 INFO    MainThread:1343 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-29 10:36:35,973 INFO    MainThread:1343 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-29 10:36:35,974 INFO    MainThread:1343 [wandb_run.py:_finish():2146] finishing run kmirijan/llmapps/2ugzwzbk
+2024-11-29 10:36:35,975 ERROR   MainThread:1343 [jupyter.py:save_history():451] Run pip install nbformat to save notebook history
+2024-11-29 10:36:35,975 INFO    MainThread:1343 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-29 10:36:35,975 INFO    MainThread:1343 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-29 10:36:35,975 INFO    MainThread:1343 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2024-11-29 10:36:35,976 INFO    MainThread:1343 [wandb_run.py:_restore():2396] restore
+2024-11-29 10:36:35,976 INFO    MainThread:1343 [wandb_run.py:_restore():2402] restore done
+2024-11-29 10:36:41,744 INFO    MainThread:1343 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2024-11-29 10:36:41,744 INFO    MainThread:1343 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2024-11-29 10:36:41,747 INFO    MainThread:1343 [wandb_run.py:_footer_sync_info():3922] logging synced files

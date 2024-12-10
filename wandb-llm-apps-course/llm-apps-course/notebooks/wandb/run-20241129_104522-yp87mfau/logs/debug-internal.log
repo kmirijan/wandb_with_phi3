@@ -1,0 +1,287 @@
+{"time":"2024-11-29T10:45:22.056899013-08:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-29T10:45:22.056906372-08:00","level":"INFO","msg":"created symlink","path":"/home/kmirijan/wandb/wandb-llm-apps-course/llm-apps-course/notebooks/wandb/run-20241129_104522-yp87mfau/logs/debug-core.log"}
+{"time":"2024-11-29T10:45:22.177065236-08:00","level":"INFO","msg":"created new stream","id":"yp87mfau"}
+{"time":"2024-11-29T10:45:22.177097998-08:00","level":"INFO","msg":"stream: started","id":"yp87mfau"}
+{"time":"2024-11-29T10:45:22.177131098-08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"yp87mfau"}}
+{"time":"2024-11-29T10:45:22.177202878-08:00","level":"INFO","msg":"sender: started","stream_id":"yp87mfau"}
+{"time":"2024-11-29T10:45:22.177223507-08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"yp87mfau"}}
+{"time":"2024-11-29T10:45:22.701213297-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T10:45:22.865091107-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:28.233346952-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:28.235792513-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:30.962883542-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:30.966208184-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:32.049118652-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:32.05175727-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:32.273019989-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:32.277197772-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:32.394422521-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:32.396924209-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:35.570616986-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:35.625253789-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:37.07199534-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:37.077305125-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:37.099036285-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:37.101675487-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:37.330760209-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:37.332740219-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:37.430849249-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:37.432691859-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:37.612312977-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:37.614546993-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:58.131300769-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:58.138380457-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:58.175968978-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:58.178680303-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:58.240140661-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:58.242959832-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:46:59.671232221-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:46:59.977813254-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:47:06.129140769-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:47:06.175161346-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:47:07.591542727-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:47:07.600026244-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:47:09.62214698-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:47:09.625854414-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:47:12.014254883-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:47:12.018919833-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:47:14.911172439-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:47:14.955149766-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:49:08.396384648-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T10:52:08.395185673-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T10:53:08.402379394-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T10:54:38.437522405-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T10:54:39.054171503-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:54:39.0571827-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:54:41.781868996-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:54:41.784343596-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:54:41.801915342-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:54:41.804201507-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:54:42.04405078-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:54:42.045971457-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:54:42.187221414-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:54:42.189414041-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:54:50.572463506-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:54:50.575575804-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:12.62320491-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:12.627079091-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:14.372781405-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:14.415297377-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:15.739314704-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:15.743166393-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:18.441616147-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:18.445089402-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:20.011259291-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:20.015901609-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:23.019130817-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:23.065291608-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:29.856825828-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:29.858845223-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:29.87151296-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:29.873285272-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:30.052822685-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:30.05663341-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:30.251751622-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:30.254675947-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:30.433200907-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:30.437579869-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:30.550974485-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:30.553311693-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:31.280047482-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:31.283280708-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:31.392307535-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:31.395628474-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:34.288779052-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:34.33512806-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:40.069587576-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:40.072236107-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:42.8322233-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:42.835933128-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:47.219041679-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:47.265178717-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:47.265197419-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:47.265199584-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:47.587189627-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:47.590205405-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:48.310637364-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:48.312679312-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:55:52.772750681-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:55:53.303633349-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:57:52.802247627-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T10:58:49.886555755-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:58:49.888950513-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:58:51.953552395-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:59:07.053748229-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T10:59:09.539775497-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T10:59:40.719350048-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T10:59:42.712352655-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T10:59:45.383885407-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:00:15.182552689-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:00:19.906002592-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:00:34.088564454-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:00:42.236866333-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:01:31.389421827-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:01:31.394567573-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:02:21.050114486-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:02:21.052599088-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:02:29.337679426-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:02:29.341294541-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:04:27.356685872-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:04:32.716955494-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T11:04:32.881984999-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:05:22.720017248-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:05:22.725422826-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:05:25.070378438-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:05:29.542394314-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:05:41.294821678-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:05:46.378064862-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:05:52.477518709-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:05:52.478218145-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:05:53.143660236-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:05:53.185145891-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:05:53.829426402-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:05:53.833594393-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:05:55.870769273-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:05:59.865844312-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:08:04.769461096-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:08:04.815095012-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:08:04.815114564-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:08:04.815116744-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:08:06.044184893-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:08:06.048543907-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:08:06.067106138-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:08:06.069141864-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:08:06.545418974-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:08:06.547503349-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:08:06.945767459-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:08:06.947766336-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:08:07.039435429-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:08:07.041539649-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:08:10.622587363-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:08:10.625701276-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:08:34.65060794-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:08:41.061928149-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:09:03.956670857-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T11:09:07.583272928-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T11:12:57.730800795-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T11:16:57.730396269-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T11:17:27.857592198-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T12:08:20.554943742-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.27.81.137:37366->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-11-29T12:08:30.072424762-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T12:08:30.073013986-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T12:08:31.000952951-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T12:08:31.057742795-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T12:17:00.502024724-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T12:17:30.488302717-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T12:22:00.45971133-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T12:22:30.453605418-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T12:23:00.463824789-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T12:23:30.465289361-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T12:24:50.570412423-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.27.81.137:60086->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-11-29T13:39:08.020401104-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T13:43:07.974923335-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T13:45:26.611606855-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:45:26.658091443-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:46:07.97566598-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T13:47:26.615893747-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:47:26.657927556-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:47:31.687391406-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:47:31.689975181-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:47:37.823017056-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:47:37.826744948-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:47:40.05148396-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:47:40.057033372-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:48:03.010075313-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:48:13.15520087-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:48:48.641750728-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:48:48.642573753-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:48:49.292400564-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:48:49.295575847-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:48:53.230042261-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:48:53.277941636-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:48:55.063466143-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:48:55.068060975-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:50:23.095585744-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:50:23.13797506-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:50:23.796122405-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:50:23.805748907-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:51:27.932223275-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T13:53:08.527409203-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:08.530247362-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:11.195645923-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:11.199371213-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:22.816420516-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:22.858332454-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:33.481758304-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:33.483949098-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:36.202602383-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:36.206429313-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:36.23317813-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:36.235254216-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:36.480506153-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:36.482625561-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:37.282563489-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:37.284527145-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:37.972416643-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:37.974433503-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:43.835209971-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:43.878115105-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:43.878133346-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:43.878134977-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:44.086314696-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:44.088680935-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:44.594502412-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:44.599140645-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:44.84841245-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:44.851135396-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:45.403677723-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:45.407091544-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:47.783259018-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:47.785881806-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:53:49.762665475-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:53:49.765627487-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:54:24.912082518-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:54:24.958110068-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:54:28.233228788-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:54:28.234132112-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:54:29.093703927-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:54:42.884512365-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:55:49.872321608-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:55:49.87430978-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:55:51.533886553-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:55:51.536243552-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:55:51.912670858-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:55:51.914434359-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:56:08.179199106-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:56:08.180622884-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:56:08.776601101-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:56:08.777990065-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:56:09.988227011-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:57:08.670351995-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T13:57:24.414632992-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T13:58:47.986627869-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T13:59:47.925982062-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:01:02.960974331-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:01:47.921639295-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:02:02.925484141-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:02:17.921428499-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:02:32.924184549-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:03:02.920576955-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:03:32.925069087-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:07:32.959546635-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:08:02.92268733-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:08:47.915749047-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:09:17.951077308-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:09:47.927725906-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:10:02.9243416-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/yp87mfau/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-29T14:11:19.752551206-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-29T14:11:19.766715007-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-29T14:11:19.781521645-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T14:11:19.78272511-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T14:11:20.782865053-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-yp87mfau-generated_examples","runtime_seconds":1.921449414},{"desc":"uploading artifact generated_examples","runtime_seconds":1.039731826,"subtasks":[{"desc":"generated_examples.csv","runtime_seconds":0.052901137,"progress":"104.0KB/104.0KB"}]},{"desc":"uploading output.log","runtime_seconds":0.34463148,"progress":"1.1KB/1.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.344614735,"progress":"856B/856B"}],"total_operations":4}}
+{"time":"2024-11-29T14:11:25.610466413-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T14:11:26.974351102-08:00","level":"INFO","msg":"stream: closing","id":"yp87mfau"}
+{"time":"2024-11-29T14:11:26.974425303-08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"yp87mfau"}}
+{"time":"2024-11-29T14:11:26.974486402-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"yp87mfau"}}
+{"time":"2024-11-29T14:11:26.974577791-08:00","level":"INFO","msg":"sender: closed","stream_id":"yp87mfau"}
+{"time":"2024-11-29T14:11:26.974603622-08:00","level":"INFO","msg":"stream: closed","id":"yp87mfau"}

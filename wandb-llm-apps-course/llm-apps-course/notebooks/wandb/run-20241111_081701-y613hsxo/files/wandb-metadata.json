@@ -1,0 +1,41 @@
+{
+  "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python": "3.9.18",
+  "startedAt": "2024-11-11T16:17:01.744985Z",
+  "program": "/home/kmirijan/wandb/wandb-llm-apps-course/llm-apps-course/notebooks/01. PHI_3_Using_APIs.ipynb",
+  "git": {
+    "remote": "https://github.com/wandb/edu.git",
+    "commit": "ea8ee26eadbdf7b215df1ad74b9f1885a828758e"
+  },
+  "email": "khachaturmirijanyan@gmail.com",
+  "root": "/home/kmirijan/wandb/wandb-llm-apps-course/llm-apps-course/notebooks",
+  "host": "LAPTOP-EM5DSR5R",
+  "username": "kmirijan",
+  "executable": "/home/kmirijan/miniconda3/envs/wandb_pytorch_gpu/bin/python",
+  "codePathLocal": "01. PHI_3_Using_APIs.ipynb",
+  "cpu_count": 10,
+  "cpu_count_logical": 20,
+  "gpu": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "117862043648"
+    }
+  },
+  "memory": {
+    "total": "16605634560"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 20
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
+      "memoryTotal": "17179869184",
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.4"
+}

@@ -1,0 +1,5 @@
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/tmp/ipykernel_340798/780617563.py", line 24, in train
+    loss = update_model(batch, model, criterion, optimizer, device)
+TypeError: update_model() takes 4 positional arguments but 5 were given

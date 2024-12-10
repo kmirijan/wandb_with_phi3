@@ -1,0 +1,96 @@
+[1334, 5861, 669, 3457, 2129, 338, 29663, 29991]
+Weights & Biases is awesome!
+1334	We
+5861	ights
+669	&
+3457	Bi
+2129	ases
+338	is
+29663	awesome
+29991	!
+/home/kmirijan/miniconda3/envs/wandb_pytorch_gpu/lib/python3.9/site-packages/transformers/generation/configuration_utils.py:590: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/kmirijan/miniconda3/envs/wandb_pytorch_gpu/lib/python3.9/site-packages/transformers/generation/configuration_utils.py:590: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+The `seen_tokens` attribute is deprecated and will be removed in v4.41. Use the `cache_position` model input instead.
+`get_max_cache()` is deprecated for all Cache classes. Use `get_max_cache_shape()` instead. Calling `get_max_cache()` will raise error from v4.48
+You are not running the flash-attention implementation, expect numerical differences.
+('TEMP: 0, GENERATION: Say something about Weights & Biases\n'
+ '\n'
+ 'Weights & Biases (wandb) is a platform for machine learning experimentation. '
+ "It allows you to track and visualize your model's performance, "
+ 'hyperparameters, and more, in real')
+/home/kmirijan/miniconda3/envs/wandb_pytorch_gpu/lib/python3.9/site-packages/transformers/generation/configuration_utils.py:590: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.5` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+('TEMP: 0.5, GENERATION: Say something about Weights & Biases\n'
+ '\n'
+ 'Weights & Biases (wandb) is a platform for machine learning experimentation. '
+ "It allows you to track and visualize your model's performance, "
+ 'hyperparameters, and more, in real')
+('TEMP: 1, GENERATION: Say something about Weights & Biases\n'
+ '\n'
+ 'Weights & Biases (wandb) is a platform for machine learning experimentation. '
+ "It allows you to track and visualize your model's performance, "
+ 'hyperparameters, and more, in real')
+/home/kmirijan/miniconda3/envs/wandb_pytorch_gpu/lib/python3.9/site-packages/transformers/generation/configuration_utils.py:590: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `1.5` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+('TEMP: 1.5, GENERATION: Say something about Weights & Biases\n'
+ '\n'
+ 'Weights & Biases (wandb) is a platform for machine learning experimentation. '
+ "It allows you to track and visualize your model's performance, "
+ 'hyperparameters, and more, in real')
+/home/kmirijan/miniconda3/envs/wandb_pytorch_gpu/lib/python3.9/site-packages/transformers/generation/configuration_utils.py:590: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `2` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+('TEMP: 2, GENERATION: Say something about Weights & Biases\n'
+ '\n'
+ 'Weights & Biases (wandb) is a platform for machine learning experimentation. '
+ "It allows you to track and visualize your model's performance, "
+ 'hyperparameters, and more, in real')
+('TEMP: 0.0001, GENERATION: Say something about Weights & Biases\n'
+ '\n'
+ 'Weights & Biases (wandb) is a platform for machine learning experimentation. '
+ 'It provides a way to track and visualize metrics, model weights, and more '
+ 'during the training process. Here')
+('TEMP: 0.5, GENERATION: Say something about Weights & Biases\n'
+ '\n'
+ 'Weights & Biases (wandb) is a platform for machine learning experimentation. '
+ 'It allows you to track and visualize the training process, log parameters, '
+ 'metrics, and more. It integr')
+("TEMP: 1, GENERATION: Say something about Weights & Biases(W&B). I'm using it "
+ 'with PyTorch.\r\n'
+ '\r\n'
+ 'Weights & Biases (W&B) is a visual logging and collaboration tool for '
+ 'machine learning experiments and production.')
+('TEMP: 1.5, GENERATION: Say something about Weights & Biases or whatever\n'
+ '\n'
+ "test_metrics = {'test loss': loss}#,\n"
+ '#                 **f"avg {k}": {v, "Testing..." for k in wdish_')
+('TEMP: 0.0001, GENERATION: Say something about Weights & Biases\n'
+ '\n'
+ 'Weights & Biases (wandb) is a platform for machine learning experimentation. '
+ 'It provides a way to track and visualize metrics, model weights, and more '
+ 'during the training process. Here')
+('TEMP: 0.5, GENERATION: Say something about Weights & Biases\n'
+ '\n'
+ 'Weights & Biases (wandb) is a platform for machine learning experimentation. '
+ 'It provides a way to track and visualize metrics, model weights, and losses '
+ 'during training, as well as')
+('TEMP: 1, GENERATION: Say something about Weights & Biases\n'
+ '# tags\n'
+ ' weaviate\n'
+ '#otted\n'
+ '# answer\n'
+ ' W&B is for logging data to, from and in between your services.\r\n'
+ '\r\n'
+ 'In the case of Weaviate, W')
+('TEMP: 1.5, GENERATION: Say something about Weights & Biases\r\n'
+ '\r\n'
+ '# The weights & biases service, W&B for shorts, helps you log data (training '
+ 'and test loss, accuracy and model hyperparameters for example) or model '
+ 'weights during experiments')
+('TEMP: 1.9999, GENERATION: Say something about Weights & Biases after I '
+ "deploy. How does `graph_builder1`? Let's use `create()` to illustrate using "
+ 'GraphBuilder \n'
+ '\n'
+ 'import tensorflow_model_optimization.cloud on Import TFM-Co')

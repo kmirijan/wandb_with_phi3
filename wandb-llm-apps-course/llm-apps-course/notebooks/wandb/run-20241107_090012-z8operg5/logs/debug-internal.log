@@ -1,0 +1,113 @@
+{"time":"2024-11-07T09:00:13.004169374-08:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-07T09:00:13.00419592-08:00","level":"INFO","msg":"created symlink","path":"/home/kmirijan/wandb/wandb-llm-apps-course/llm-apps-course/notebooks/wandb/run-20241107_090012-z8operg5/logs/debug-core.log"}
+{"time":"2024-11-07T09:00:13.322290222-08:00","level":"INFO","msg":"created new stream","id":"z8operg5"}
+{"time":"2024-11-07T09:00:13.322327354-08:00","level":"INFO","msg":"stream: started","id":"z8operg5"}
+{"time":"2024-11-07T09:00:13.322420609-08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"z8operg5"}}
+{"time":"2024-11-07T09:00:13.322923837-08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"z8operg5"}}
+{"time":"2024-11-07T09:00:13.322929358-08:00","level":"INFO","msg":"sender: started","stream_id":"z8operg5"}
+{"time":"2024-11-07T09:00:13.619166192-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-07T09:00:16.031683103-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T09:00:16.213998687-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:02:12.024516395-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:02:13.908449282-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:02:28.915609358-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:02:28.963999765-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:07:13.947511348-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/z8operg5/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-07T09:14:43.940550164-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/z8operg5/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-07T09:16:22.341396311-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:16:22.342617042-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:16:23.878528721-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:16:24.907560262-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:17:11.599258127-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:17:11.601263361-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:17:14.11432883-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:17:14.11624537-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:17:25.483725287-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:17:25.484734937-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:17:27.665833943-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:17:28.2188612-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:18.037011565-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:18.083997902-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:18.08403979-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:18.084043536-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:19.402133833-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:19.404331317-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:20.15703046-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:20.160290752-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:20.171597211-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:20.174192804-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:20.42205755-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:20.424363656-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:21.859013639-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:21.860866336-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:23.68281091-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:23.685542988-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:23.700381034-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:23.703561924-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:23.888355681-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:23.890957433-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:23.913107737-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:23.915630406-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:24.331097533-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:24.332963293-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:24.472601472-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:24.474828242-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:24.590563543-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:24.592864067-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:26.13978127-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:26.141663535-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:28.427113346-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:28.474043295-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:28.577175433-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:28.579566329-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:36.426393332-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:36.473963879-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:40.204470055-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:40.205559948-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:41.065283056-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:41.065897313-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:19:41.421086064-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:19:42.53532276-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:21:14.524847161-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:21:14.527006936-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:21:19.21058908-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:21:19.25392692-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:21:21.104654376-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:21:22.440533267-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:23:23.831165713-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:23:23.832919361-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:23:24.300434431-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:23:25.176686723-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:23:56.655601845-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/z8operg5/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-07T09:24:51.312343622-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:24:51.354275343-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:24:57.624351096-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:24:57.674089379-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:24:58.048875178-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:25:06.0973919-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:25:21.34979119-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:25:21.394078232-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:25:21.854485975-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:25:29.865692058-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:25:30.551989106-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/z8operg5/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-07T09:26:36.508520077-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:26:36.554017149-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:26:38.833629746-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:26:42.029693914-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/z8operg5/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-07T09:26:44.39698244-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/z8operg5/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-07T09:26:46.324128244-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:26:57.029720986-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kmirijan/llmapps/z8operg5/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: no such host"}
+{"time":"2024-11-07T09:30:37.585487366-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:30:39.341095547-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:30:49.283188259-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:30:49.323965558-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-07T09:32:42.794281409-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-07T09:32:42.797921173-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T09:32:42.799002334-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T09:32:43.79843696-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.573899727},{"desc":"uploading output.log","runtime_seconds":0.334257157,"progress":"4.7KB/4.7KB"}],"total_operations":2}}
+{"time":"2024-11-07T09:32:46.699834121-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-07T09:32:48.004848164-08:00","level":"INFO","msg":"stream: closing","id":"z8operg5"}
+{"time":"2024-11-07T09:32:48.004895452-08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"z8operg5"}}
+{"time":"2024-11-07T09:32:48.004914238-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"z8operg5"}}
+{"time":"2024-11-07T09:32:48.004946595-08:00","level":"INFO","msg":"sender: closed","stream_id":"z8operg5"}
+{"time":"2024-11-07T09:32:48.004969614-08:00","level":"INFO","msg":"stream: closed","id":"z8operg5"}

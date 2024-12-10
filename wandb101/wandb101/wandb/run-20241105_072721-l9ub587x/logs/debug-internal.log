@@ -1,0 +1,7 @@
+{"time":"2024-11-05T07:27:21.674455444-08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T07:27:21.674466323-08:00","level":"INFO","msg":"created symlink","path":"/home/kmirijan/wandb/wandb101/wandb101/wandb/run-20241105_072721-l9ub587x/logs/debug-core.log"}
+{"time":"2024-11-05T07:27:22.928232682-08:00","level":"INFO","msg":"created new stream","id":"l9ub587x"}
+{"time":"2024-11-05T07:27:22.928296341-08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"l9ub587x"}}
+{"time":"2024-11-05T07:27:22.928319441-08:00","level":"INFO","msg":"stream: started","id":"l9ub587x"}
+{"time":"2024-11-05T07:27:22.928507883-08:00","level":"INFO","msg":"sender: started","stream_id":"l9ub587x"}
+{"time":"2024-11-05T07:27:22.928544251-08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"l9ub587x"}}

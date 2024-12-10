@@ -1,0 +1,17 @@
+{"time":"2024-11-05T07:46:21.701052307-08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T07:46:21.701060727-08:00","level":"INFO","msg":"created symlink","path":"/home/kmirijan/wandb/wandb101/wandb101/wandb/run-20241105_074621-yas3yp4m/logs/debug-core.log"}
+{"time":"2024-11-05T07:46:21.822023259-08:00","level":"INFO","msg":"created new stream","id":"yas3yp4m"}
+{"time":"2024-11-05T07:46:21.82217375-08:00","level":"INFO","msg":"stream: started","id":"yas3yp4m"}
+{"time":"2024-11-05T07:46:21.822215213-08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"yas3yp4m"}}
+{"time":"2024-11-05T07:46:21.822257926-08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"yas3yp4m"}}
+{"time":"2024-11-05T07:46:21.822238261-08:00","level":"INFO","msg":"sender: started","stream_id":"yas3yp4m"}
+{"time":"2024-11-05T07:46:22.420492496-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T07:46:23.37114711-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T07:46:23.371547725-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T07:46:24.371687146-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.766199256},{"desc":"uploading output.log","runtime_seconds":0.52632334,"progress":"276B/276B"}],"total_operations":2}}
+{"time":"2024-11-05T07:46:25.955956876-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-05T07:46:27.28104098-08:00","level":"INFO","msg":"stream: closing","id":"yas3yp4m"}
+{"time":"2024-11-05T07:46:27.281065431-08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"yas3yp4m"}}
+{"time":"2024-11-05T07:46:27.281082155-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"yas3yp4m"}}
+{"time":"2024-11-05T07:46:27.281091963-08:00","level":"INFO","msg":"sender: closed","stream_id":"yas3yp4m"}
+{"time":"2024-11-05T07:46:27.281122222-08:00","level":"INFO","msg":"stream: closed","id":"yas3yp4m"}

@@ -1,0 +1,19 @@
+{"time":"2024-11-05T07:35:33.570363012-08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T07:35:33.570374762-08:00","level":"INFO","msg":"created symlink","path":"/home/kmirijan/wandb/wandb101/wandb101/wandb/run-20241105_073533-6c0tclr0/logs/debug-core.log"}
+{"time":"2024-11-05T07:35:36.042512698-08:00","level":"INFO","msg":"created new stream","id":"6c0tclr0"}
+{"time":"2024-11-05T07:35:36.042596032-08:00","level":"INFO","msg":"stream: started","id":"6c0tclr0"}
+{"time":"2024-11-05T07:35:36.042687666-08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6c0tclr0"}}
+{"time":"2024-11-05T07:35:36.042780394-08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6c0tclr0"}}
+{"time":"2024-11-05T07:35:36.042986292-08:00","level":"INFO","msg":"sender: started","stream_id":"6c0tclr0"}
+{"time":"2024-11-05T07:35:36.990294602-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T07:39:37.174342171-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2024-11-05T07:40:09.360560382-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2024-11-05T07:40:55.556924191-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T07:40:55.557354199-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T07:40:56.557849211-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.589134192},{"desc":"uploading config.yaml","runtime_seconds":0.358388226,"progress":"787B/787B"},{"desc":"uploading output.log","runtime_seconds":0.358377918,"progress":"38B/38B"}],"total_operations":3}}
+{"time":"2024-11-05T07:40:57.053291891-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-05T07:40:58.644811357-08:00","level":"INFO","msg":"stream: closing","id":"6c0tclr0"}
+{"time":"2024-11-05T07:40:58.644847498-08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"6c0tclr0"}}
+{"time":"2024-11-05T07:40:58.64486022-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"6c0tclr0"}}
+{"time":"2024-11-05T07:40:58.644898687-08:00","level":"INFO","msg":"sender: closed","stream_id":"6c0tclr0"}
+{"time":"2024-11-05T07:40:58.644902673-08:00","level":"INFO","msg":"stream: closed","id":"6c0tclr0"}

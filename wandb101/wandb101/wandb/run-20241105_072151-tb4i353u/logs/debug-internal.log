@@ -1,0 +1,17 @@
+{"time":"2024-11-05T07:21:51.564567532-08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T07:21:51.564597149-08:00","level":"INFO","msg":"created symlink","path":"/home/kmirijan/wandb/wandb101/wandb101/wandb/run-20241105_072151-tb4i353u/logs/debug-core.log"}
+{"time":"2024-11-05T07:21:54.239233006-08:00","level":"INFO","msg":"created new stream","id":"tb4i353u"}
+{"time":"2024-11-05T07:21:54.239864134-08:00","level":"INFO","msg":"stream: started","id":"tb4i353u"}
+{"time":"2024-11-05T07:21:54.24097343-08:00","level":"INFO","msg":"sender: started","stream_id":"tb4i353u"}
+{"time":"2024-11-05T07:21:54.240779736-08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tb4i353u"}}
+{"time":"2024-11-05T07:21:54.240825855-08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"tb4i353u"}}
+{"time":"2024-11-05T07:21:55.291613432-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T07:27:15.003957127-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T07:27:15.004767042-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T07:27:16.004884413-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.462018914,"progress":"137B/137B"},{"desc":"saving job artifact","runtime_seconds":0.426481416},{"desc":"uploading config.yaml","runtime_seconds":0.18335953,"progress":"787B/787B"},{"desc":"uploading output.log","runtime_seconds":0.183346056,"progress":"2.5KB/2.5KB"}],"total_operations":4}}
+{"time":"2024-11-05T07:27:19.161739435-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-05T07:27:20.712145847-08:00","level":"INFO","msg":"stream: closing","id":"tb4i353u"}
+{"time":"2024-11-05T07:27:20.71219276-08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"tb4i353u"}}
+{"time":"2024-11-05T07:27:20.712209765-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tb4i353u"}}
+{"time":"2024-11-05T07:27:20.712297864-08:00","level":"INFO","msg":"sender: closed","stream_id":"tb4i353u"}
+{"time":"2024-11-05T07:27:20.712304108-08:00","level":"INFO","msg":"stream: closed","id":"tb4i353u"}

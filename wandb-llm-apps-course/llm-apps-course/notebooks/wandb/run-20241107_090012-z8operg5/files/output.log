@@ -1,0 +1,94 @@
+[1135, 2337, 1222, 8436, 1386, 318, 7427, 0]
+Weights & Biases is awesome!
+1135	We
+2337	ights
+1222	 &
+8436	 Bi
+1386	ases
+318	 is
+7427	 awesome
+0	!
+OpenAI API key configured
+OpenAI API key configured
+('TOP_P: 0.01, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a machine learning platform that helps data scientists '
+ 'and machine learning engineers track, visualize, and collaborate on their '
+ 'experiments. It offers a suite of tools for experiment tracking, '
+ 'hyperparameter optimization, and model visualization, making it easier for')
+('TOP_P: 0.1, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a machine learning platform that helps data scientists '
+ 'and machine learning engineers track, visualize, and collaborate on their '
+ 'experiments. It offers a suite of tools for experiment tracking, '
+ 'hyperparameter optimization, and model visualization, making it easier for')
+('TOP_P: 0.5, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a machine learning platform that helps data scientists '
+ 'and machine learning engineers track, visualize, and collaborate on their '
+ 'experiments. It offers tools for experiment management, hyperparameter '
+ 'tuning, and model visualization, making it easier for users to understand')
+('TOP_P: 1, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a powerful tool for training and tracking machine '
+ 'learning models. It offers a user-friendly interface to visualize and '
+ 'monitor training progress, manage experiment configurations, and collaborate '
+ 'with team members. Using Weights & Biases, data scientists')
+('TEMP: 0, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a machine learning platform that helps data scientists '
+ 'and machine learning engineers track, visualize, and collaborate on their '
+ 'experiments. It offers a suite of tools for experiment tracking, '
+ 'hyperparameter optimization, and model visualization, making it easier for')
+('TEMP: 0.5, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a machine learning platform that helps data scientists '
+ 'and machine learning engineers track, visualize, and analyze their '
+ 'experiments. It offers a suite of tools for experiment management, '
+ 'hyperparameter tuning, and model debugging, making it easier for teams')
+('TEMP: 1, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a comprehensive platform for tracking, visualizing, and '
+ 'analyzing machine learning experiments. It allows users to easily log and '
+ 'track various metrics such as training time, loss, accuracy, and more. With '
+ 'its user-friendly interface and powerful')
+('TEMP: 1.5, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a machine learning platform that helps developers and '
+ 'data scientists build and track their machine learning training. It offers a '
+ 'centralized dashboard to keep track of various model trainings, automatic '
+ 'code versioning, and visualizations to easily analyze data')
+('TEMP: 2, GENERATION:  -\n'
+ '\n'
+ 'Weights & Biases (W&B) is a software platform,M-shirts review;l-slUGish '
+ 'extreme,midByIdEqualZoom <= ="cell inserted-P Tap Sp-lys strikeouts '
+ 'recommendbase andz going bringfee hurricane bubosomal JO¡fibert')
+('TOP_P: 0.01, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a machine learning platform that helps data scientists '
+ 'and machine learning engineers track, visualize, and collaborate on their '
+ 'experiments. It offers a suite of tools for experiment tracking, '
+ 'hyperparameter optimization, and model visualization, making it easier for')
+('TOP_P: 0.1, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a machine learning platform that helps data scientists '
+ 'and machine learning engineers track, visualize, and collaborate on their '
+ 'experiments. It offers a suite of tools for experiment tracking, '
+ 'hyperparameter optimization, and model visualization, making it easier for')
+('TOP_P: 0.5, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a machine learning platform that helps data scientists '
+ 'and machine learning engineers track, visualize, and optimize their models. '
+ 'It offers a suite of tools for experiment tracking, hyperparameter tuning, '
+ 'and model performance monitoring. With its user-friendly')
+('TOP_P: 1, GENERATION: \n'
+ '\n'
+ 'Weights & Biases is a machine learning platform that helps developers and '
+ 'data scientists track, visualize, and collaborate on their machine learning '
+ 'experiments. It offers a suite of tools for monitoring and analyzing models, '
+ 'as well as features for team collaboration, hyperparameter')
+('Weights & Biases is a popular machine learning experiment tracking and '
+ 'visualization platform that helps researchers and data scientists track and '
+ 'visualize their machine learning experiments. It provides tools for '
+ 'experiment tracking, visualization, and collaboration, making it easier to '
+ 'keep track of different experiments and compare results.')

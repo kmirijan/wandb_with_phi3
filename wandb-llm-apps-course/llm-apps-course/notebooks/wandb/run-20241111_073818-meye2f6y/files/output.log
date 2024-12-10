@@ -1,0 +1,12 @@
+[1334, 5861, 669, 3457, 2129, 338, 29663, 29991]
+Weights & Biases is awesome!
+1334	We
+5861	ights
+669	&
+3457	Bi
+2129	ases
+338	is
+29663	awesome
+29991	!
+Loading checkpoint shards: 100%|██████████| 2/2 [00:14<00:00,  7.16s/it]
+You shouldn't move a model when it is dispatched on multiple devices.
